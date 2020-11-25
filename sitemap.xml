@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://iarigby.github.io/blog/404</loc>
+<loc>https://iarigby.github.io/blog/https://iarigby.github.io/blog/other</loc>
+<lastmod>2020-11-24T00:00:00+04:00</lastmod>
 </url>
 <url>
-<loc>https://iarigby.github.io/blog/style-guide/</loc>
+<loc>https://iarigby.github.io/blog/https://iarigby.github.io/blog/sleep</loc>
+<lastmod>2020-11-25T00:00:00+04:00</lastmod>
 </url>
 <url>
-<loc>https://iarigby.github.io/blog/subscribe/</loc>
+<loc>https://iarigby.github.io/blog/https://iarigby.github.io/blog/404</loc>
 </url>
 <url>
-<loc>https://iarigby.github.io/blog/</loc>
+<loc>https://iarigby.github.io/blog/https://iarigby.github.io/blog/style-guide</loc>
+</url>
+<url>
+<loc>https://iarigby.github.io/blog/https://iarigby.github.io/blog/subscribe</loc>
+</url>
+<url>
+<loc>https://iarigby.github.io/blog/https://iarigby.github.io/blog/</loc>
 </url>
 </urlset>
