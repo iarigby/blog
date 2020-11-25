@@ -3,10 +3,10 @@
   <channel>
     <title>Blog</title>
     <description></description>
-    <link>bloghttps://iarigby.github.io/</link>
+    <link>https://iarigby.github.io/blog</link>
     <atom:link href="https://iarigby.github.io/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 25 Nov 2020 23:26:55 +0400</pubDate>
-    <lastBuildDate>Wed, 25 Nov 2020 23:26:55 +0400</lastBuildDate>
+    <pubDate>Wed, 25 Nov 2020 23:30:59 +0400</pubDate>
+    <lastBuildDate>Wed, 25 Nov 2020 23:30:59 +0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
   </channel>
