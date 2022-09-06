@@ -2,17 +2,20 @@
   <div class="section">
     <div class="container">
       <div class="row">
-        <div class="col-md-3 col-sm-6 mb-4 mb-md-0">
+        <!-- <div class="col-md-3 col-sm-6 mb-4 mb-md-0">
           <a href="{{site.BaseURL}}"><img src="{{site.Params.logo | absURL }}" alt="{{site.Title}}" class="img-fluid"></a>
+        </div> -->
+        <div class="col-md-4 col-sm-6 mb-4 mb-md-0">
+          {{- partial "mailchimp.html" . -}}
         </div>
-        <div class="col-md-3 col-sm-6 mb-4 mb-md-0">
+        <!-- <div class="col-md-3 col-sm-6 mb-4 mb-md-0">
           {{ if .Site.Params.address }}
           <h6>Address</h6>
           <ul class="list-unstyled">
             <li class="font-secondary text-dark">{{site.Params.address | markdownify }}</li>
           </ul>
           {{ end }}
-        </div>
+        </div> -->
         <div class="col-md-3 col-sm-6 mb-4 mb-md-0">
           {{ if or  .Site.Params.mobile  .Site.Params.email }}         
           <h6>Contact Info</h6>
